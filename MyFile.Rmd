@@ -4,3 +4,7 @@ output: html_notebook
 ---
 
 Some text that will go into the  master branch
+
+```{r}
+plot(new_cars)
+```
